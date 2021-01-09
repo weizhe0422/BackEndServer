@@ -44,7 +44,7 @@ Golang 1.9 and above
 - [X] Server can serve multiple connections at the same time.
 - [X] Configurable setting.
 
-<img src="https://github.com/weizhe0422/BackEndServer/blob/master/img/ConfigurationSetting.png" width="650" height="450" alt="ConfigurationSetting"/>
+<img src="https://github.com/weizhe0422/BackEndServer/blob/main/img/ConfigurationSetting.png" width="650" height="450" alt="ConfigurationSetting"/>
 
 - [X] Support rate limit machanism to limit connection request count per second
 - [X] Dashboard to display the server status include
@@ -54,7 +54,7 @@ Golang 1.9 and above
     - Request Rate: Requests per second
     - Time per request: Time per request
     - Detail history
-      ![ServerStatusDashboard](https://github.com/weizhe0422/BackEndServer/blob/master/img/ServerStatusDashboard.png)
+      ![ServerStatusDashboard](https://github.com/weizhe0422/BackEndServer/blob/main/img/ServerStatusDashboard.png)
 - [X] Can also get the status raw dat with HTTP `GET` method.
 - [X] Gracfully disconnect with client
   <img src="https://github.com/weizhe0422/BackEndServer/blob/develop/img/ClientBye.png" width="400" height="250" alt="ClientBye"/>
