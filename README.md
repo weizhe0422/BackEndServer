@@ -57,12 +57,12 @@ Golang 1.9 and above
       ![ServerStatusDashboard](https://github.com/weizhe0422/BackEndServer/blob/main/img/ServerStatusDashboard.png)
 - [X] Can also get the status raw dat with HTTP `GET` method.
 - [X] Gracfully disconnect with client
-  <img src="https://github.com/weizhe0422/BackEndServer/blob/develop/img/ClientBye.png" width="400" height="250" alt="ClientBye"/>
+  <img src="https://github.com/weizhe0422/BackEndServer/blob/main/img/ClientBye.png" width="400" height="250" alt="ClientBye"/>
 - [ ] Use etcd to save the configuration setting, then you can change it with remote and works immediately.
 - [ ] Support log to save into Mongo.
 
 ### Client
 - [X] Client can input multi-line text and send to server with `quit` command.
-  <img src="https://github.com/weizhe0422/BackEndServer/blob/master/img/ClintMultilineInput.png" width="400" height="300" alt="ClintMultilineInput"/>
+  <img src="https://github.com/weizhe0422/BackEndServer/blob/main/img/ClintMultilineInput.png" width="400" height="300" alt="ClintMultilineInput"/>
 
 - [ ] Web form interface for user to input message
