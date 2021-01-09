@@ -1,0 +1,13 @@
+{
+  "connectMethod": "tcp",
+  "serverAddress": "localhost",
+  "socketPort": 5000,
+  "receiveBuffer": 512,
+  "httpPort": 4000,
+  "serverStatusPath": "/server/status",
+  "apiSvrReadTimeOut": 5000,
+  "apiSvrWriteTimeOut": 5000,
+  "rateLimitPerMinute": 1,
+  "rateLimitBuffer": 5,
+  "webRoot": "./webPage"
+}
